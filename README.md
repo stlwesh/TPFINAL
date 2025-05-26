@@ -3,7 +3,7 @@
 
 ##  Description du Projet
 
-Ce projet implémente un système complet de gestion d'événements en utilisant les concepts avancés de la Programmation Orientée Objet (POO). Il s'agit du **TP#3 - POO** développé pour l'ENSPY.
+Ce projet implémente un système complet de gestion d'événements en utilisant les concepts avancés de la Programmation Orientée Objet (POO). Il s'agit du **TP3 - POO** .
 
 ###  Objectifs Pédagogiques
 
